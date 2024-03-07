@@ -23,6 +23,8 @@ I am also practicing my OS management skills. I like to learn new concepts, then
 I believe security ties in closely with the above two sections, programming and technology. You can never be too safe online. I like to learn new concepts on [TryHackMe](https://tryhackme.com/), because they provide the opportunity to discuss what potential vulnerabilities are in programs and applications, then let you play with the concept in their online sandbox of vulnerable machines. Check out my profile below:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/GCMunoz.png" alt="TryHackMe">
+
+[Link to profile](https://tryhackme.com/p/GCMunoz)
   
 
 ### Certifications
