@@ -1,8 +1,7 @@
 # Hey there, I'm George 👋
 
 ## About
-I'm a software developer, specializing in web application development.
-
+I'm a software developer.
 ## Technology 
 - HTML, CSS, JavaScript
 - ReactJS, NodeJS
