@@ -9,10 +9,10 @@ but I like to work on one-off projects too.
 
 ## About Me
 
-- 🔭 **I’m currently working on** an inventory management application using
+- 🔭 **I’m currently working on** an [inventory management application](https://github.com/gcmoony/inventory-app) using
   Electron and React.
 - 🌱 **I’m currently learning** about data structures and algorithms through
-  CodePath.
+  [CodePath](https://www.codepath.org/).
 - 💬 **Ask me about** my favorite pizza recipe.
 - 📫 **How to reach me**: george@gcmoony.com
 - ⚡ **Fun fact**: Intel brought
