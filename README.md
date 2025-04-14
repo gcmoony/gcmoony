@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpeg" alt="GCMoony Conact Info">
+[<img src="./assets/banner.jpeg" alt="GCMoony Conact Info">](https://gcmunoz.com/)
 
 # George Munoz
 
