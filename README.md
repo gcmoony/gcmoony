@@ -5,14 +5,11 @@
 Hey, hey! 👋
 
 I'm George, a software developer. My primary career focus is web development,
-but I like to work on one-off projects too.
+but I like to work on one-off projects too. Be sure to [check on my portfolio on my website](https://gcmunoz.com/)
 
 ## About Me
 
-- 🔭 **I’m currently working on** an [inventory management application](https://github.com/gcmoony/inventory-app) using
-  Electron and React.
-- 🌱 **I’m currently learning** about data structures and algorithms through
-  [CodePath](https://www.codepath.org/).
+- 🌱 **I’m currently learning** about React via [Code The Dream](https://codethedream.org/) and through personal projects.
 - 💬 **Ask me about** my favorite pizza recipe.
 - 📫 **How to reach me**: george@gcmoony.com
 - ⚡ **Fun fact**: Intel brought
